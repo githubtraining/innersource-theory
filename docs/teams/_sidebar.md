@@ -12,7 +12,7 @@
   * [**We have GitHub Enterprise, so we must be InnerSource**](have_github_enterprise.md)
   * [**Issues**](issues.md)
   * [**Pull Requests**](pull_requests.md)
-  * [**Team Structure**](team_structure.md)
+  * [**Team Structure**](teams/team_structure.md)
 
 * [**HOW can we InnerSource?**](how_can_we_innersource.md)
   * [**Communication**](communication.md)

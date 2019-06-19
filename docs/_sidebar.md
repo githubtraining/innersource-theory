@@ -12,7 +12,7 @@
   * [**We have GitHub Enterprise, so we must be InnerSource**](have_github_enterprise.md)
   * [**Issues**](issues.md)
   * [**Pull Requests**](pull_requests.md)
-  * [**Team Structure**](team_structure.md)
+  * [**Organization Structure**](organization_structure.md)
 
 * [**HOW can we InnerSource?**](how_can_we_innersource.md)
   * [**Communication**](communication.md)
@@ -28,11 +28,8 @@
 * [**Lens 2: Developer Enablement**](lens_2_dev_enablement.md)
   * [**Questions**](dev_enablement_questions.md)
   * [**Trusted Committer**](trusted_committer.md)
-    * [**Defining the Role**](defining_tc_role.md)
-    * [**Refining the Role**](refining_tc_role.md)
     * [**Rewarding TCs**](rewarding_tc.md)
   * [**Passive Documentation**](passive_documentation.md)
-  * [**Contributing Guidelines**](contributing_guidelines.md)
   * [**GitHub's Perspective**](dev_enablement_github_perspective.md)
 
 * [**Lens 3: Governance**](lens_3_governance.md)
