@@ -5,7 +5,7 @@
 
 * [**WHY InnerSource?**](why_innersource.md)
   * [**Your Organization**](your_organization.md)
-    * [**Breaking down silos**](breaking_down_silos.md)
+  * [**Breaking down silos**](breaking_down_silos.md)
   * [**Your Customers**](your_customers.md)
 
 * [**GitHub Overview**](github_overview.md)
@@ -28,7 +28,7 @@
 * [**Lens 2: Developer Enablement**](lens_2_dev_enablement.md)
   * [**Questions**](dev_enablement_questions.md)
   * [**Trusted Committer**](trusted_committer.md)
-    * [**Rewarding TCs**](rewarding_tc.md)
+  * [**Rewarding TCs**](rewarding_tc.md)
   * [**Passive Documentation**](passive_documentation.md)
   * [**GitHub's Perspective**](dev_enablement_github_perspective.md)
 
