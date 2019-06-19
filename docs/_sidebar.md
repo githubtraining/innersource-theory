@@ -1,7 +1,6 @@
 * [**Getting Started**](00_getting_started.md)
 
 * [**Introduction to InnerSource**](intro_innersource.md)
-  * [**What InnerSource is and isn't**](what_innersource_is_isnt.md)
 
 * [**WHY InnerSource?**](why_innersource.md)
   * [**Your Organization**](your_organization.md)
@@ -24,6 +23,7 @@
   * [**Questions**](culture_questions.md)
   * [**GitHub's Perspective**](culture_github_perspective.md)
   * [**Story: GitHub without InnerSource**](culture_story_innersource.md)
+  * [**Culture Checklist**](culture_checklist.md)
 
 * [**Lens 2: Developer Enablement**](lens_2_dev_enablement.md)
   * [**Questions**](dev_enablement_questions.md)
@@ -31,11 +31,15 @@
   * [**Rewarding TCs**](rewarding_tc.md)
   * [**Passive Documentation**](passive_documentation.md)
   * [**GitHub's Perspective**](dev_enablement_github_perspective.md)
+  * [**Developer Enablement Checklist**](dev_enablement_checklist.md)
 
 * [**Lens 3: Governance**](lens_3_governance.md)
   * [**Order vs. chaos**](lens_3_order_vs_chaos.md)
   * [**Questions**](governance_questions.md)
   * [**GitHub's Perspective**](governance_github_perspective.md)
+  * [**Governance Checklist**](governance_checklist.md)
 
 * [**Measuring Success**](measuring_success.md)
-  * [**Organization Checklist**](org_checklist.md)
+  * [**30 Day Checklist**](30_checklist.md)
+  * [**60 Day Checklist**](60_checklist.md)
+  * [**90 Day Checklist**](90_checklist.md)
