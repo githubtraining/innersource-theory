@@ -6,7 +6,7 @@ Chances are you have heard or read something about InnerSource by now, but just 
 
 **Problem:** Everyone seems to have a slightly different idea of what InnerSource is. Having a clear definition within the same organization is vital to adopting an InnerSource culture within your organization.
 
-Think of this as a maze. Without a clear understanding and correct direction, it's easy for team members to get lost in their own path.
+Think of this as a maze. Without a clear understanding and correct direction, it's easy for team members to get lost in their own direction of where to go.
 
 ![logo](images/maze3.png ':align=center')
 
