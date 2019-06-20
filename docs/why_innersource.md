@@ -23,18 +23,18 @@
 
 
 ## Advantages of adopting an InnerSource strategy
-1) **Code reuse across the organization grows immensely**. Developers from each team can understand the code and architecture of modules developed by other teams, and contribute code.
+1. **Code reuse across the organization grows immensely**. Developers from each team can understand the code and architecture of modules developed by other teams, and contribute code.
 
-2) **Cross-team collaboration becomes relatively frictionless**. Contributed code rarely has to be rewritten by the team receiving it, and no discussions are required at a high management level.
+2. **Cross-team collaboration becomes relatively frictionless**. Contributed code rarely has to be rewritten by the team receiving it, and no discussions are required at a high management level.
 
-3) **Development becomes faster**. As developers learn to use unit tests, code coverage, and continuous integration to remove bugs at an early stage of development. The written comments exchanged among team members, although taking up some time, more than pay for themselves by helping new developers learn the system faster.
+3. **Development becomes faster**. As developers learn to use unit tests, code coverage, and continuous integration to remove bugs at an early stage of development. The written comments exchanged among team members, although taking up some time, more than pay for themselves by helping new developers learn the system faster.
 
-4) **Quality documentation is discoverable**. Developers learn to document their code better, both formally (as in-code comments and documentation) and informally (on discussion lists). The documentation provides a history of the project and helps outsiders understand it so that more can contribute to it.
+4. **Quality documentation is discoverable**. Developers learn to document their code better, both formally (as in-code comments and documentation) and informally (on discussion lists). The documentation provides a history of the project and helps outsiders understand it so that more can contribute to it.
 
 ## ⌨️ Activity: Roadblocks
 **Purpose**: To list known or potential roadblocks for adopting InnerSource _(Time: ~15 minutes)_
 
-1) Using a whiteboard, collection of sticky notes, or an issue in a repo, discuss and list the following questions as a group.
+1. Using a whiteboard, collection of sticky notes, or an issue in a repo, discuss and list the following questions as a group.
 
 **Questions**:
 - The benefits of InnerSource are great, but what will get in the way of us fully adopting InnerSource?
