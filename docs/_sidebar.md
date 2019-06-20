@@ -3,9 +3,8 @@
 * [**Introduction to InnerSource**](intro_innersource.md)
 
 * [**WHY InnerSource?**](why_innersource.md)
-  * [**Your Organization**](your_organization.md)
-  * [**Breaking down silos**](breaking_down_silos.md)
-  * [**Your Customers**](your_customers.md)
+
+* [**Breaking down silos**](breaking_down_silos.md)
 
 * [**GitHub Overview**](github_overview.md)
   * [**We have GitHub Enterprise, so we must be InnerSource**](have_github_enterprise.md)

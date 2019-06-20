@@ -3,9 +3,9 @@
 ![logo](images/group-smarts.jpg ':no-zoom')
 
 ## What are we going to learn, and why?
-
+> Getting started:
 > - Introductions (name, title/specific role in your organization)
-> - High level overview of what to expect
+> - Agenda and high level overview of what to expect
 > - Identify a "parking lot" for questions
 > - Discuss class logistics (timing of course, recording, etc)
 > - After class office hours to support 30, 60, 90 day goals
