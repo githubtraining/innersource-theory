@@ -32,3 +32,5 @@ Raise your hand if you identify with the following:
 - Are you aware of teams struggling to communicate and collaborate effectively across time, geographic, cultural boundaries?
 - Are you Wanting to contribute to Open Source but finding existing internal processes don’t support this?
 - Do you recognize opportunities to increase levels of openness, transparency and participation within your organization?
+
+!> **Important Discussion Question(s)**: <br><br>What is the most challenging part of developing software in your organization? 

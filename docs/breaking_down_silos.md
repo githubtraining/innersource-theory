@@ -45,21 +45,20 @@ InnerSource works by starting with the smallest steps possible to effect change,
 
 ## It starts with an organization strategy
 
-Below are five steps to encourage a unified vision within your organization:
+Below are four steps to encourage a unified vision within your organization:
 
-1. Create a unified vision
-2. Work towards a common goal
-3. Motivate and incentivize
-4. Collaborate and create
-5. Execute and measure
+1. Work towards a common goal
+2. Motivate and incentivize
+3. Collaborate and create
+4. Execute and measure
 
 ## ⌨️ Activity: Align your organization strategy
 **Purpose**: To identify areas of improvement. _(Time: ~20 minutes)_
 
 **Small group discussion: First 10 minutes**
-1. In small groups, discuss which one of the five steps needs improvement.
+1. In small groups, discuss which one of the four steps needs improvement.
 2. Which step(s) is the organization doing well at?
 
 **Collective discussion: Second 10 minutes**
-3. Share one item that needs improvement and the reasons why
-4. Share one item that the organization is doing well at and the reasons why
+3. Share one item that needs improvement and the reasons why.
+4. Share one item that the organization is doing well at and the reasons why.
