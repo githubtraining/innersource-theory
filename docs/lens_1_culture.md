@@ -102,18 +102,7 @@ Benefits of this approach include:
 - Leveraging continuous integration (CI), lowering contributor friction, and allowing reviews to focus on substance.
 
 
-
-
-
 ## Checklist
 
 
 ### group activity around different culture situations
-
-### Communication
-
-Effective communication doesn't happen by accident
-
-### Discoverability
-
-### Contributor Friction
