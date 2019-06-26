@@ -29,7 +29,7 @@ It doesn't matter what tools or processes are in place, if you don't have the cu
 Some of the key cultural InnerSource ingredients we see are:
 - **Transparency**, both terms of process and participation
 - **Engagement**, contributors are highly engaged, often resulting in productive conflict and creative abrasion
-- **Asynchronous**, communication is asynchronous, enabling global participation
+- **Asynchronous**, communication is asynchronous, enabling organization wide participation
 
 These cultural ingredients produce a freedom to contribute, central to the success of InnerSource (since, given enough eyeballs, all bugs are shallow).
 
@@ -80,8 +80,30 @@ Also important to InnerSource is the value that ideas are evaluated on their mer
 **Present:** _(Time: ~10 minutes)_
 2. Report back to the collective group via a nominated group representative.
 
+## Start with small changes
 
-## GitHub's Perspective
+![logo](images/small-changes.jpg)
+
+So, where to start?
+- Overcome fear and develop trust through controlled exposures
+- Start small, don't change everything at once
+
+!> **Discussion question(s)**:<br><br>What are some small changes you can introduce so team members feel safe collaborating in the open?
+
+### Suggestion example
+
+Set up a GitHub Pages site on your GitHub Enterprise instance, and get developers blogging, publishing posts via pull requests leveraging the GitHub Flow.
+
+Benefits of this approach include:
+- Working on a non-production, non-commercial environment.
+- Increasing comfort with sharing ideas and feedback with one another through hands-on practice.
+- Developing a habit around the important practice of writing things down.
+- Applying the GitHub Flow, which we consider to be an ideal workflow to strive for in any development environment.
+- Leveraging continuous integration (CI), lowering contributor friction, and allowing reviews to focus on substance.
+
+
+
+
 
 ## Checklist
 
