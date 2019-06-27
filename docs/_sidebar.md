@@ -1,6 +1,6 @@
-* [**Getting Started**](00_getting_started.md)
-
-* [**Introduction to InnerSource**](intro_innersource.md)
+* **Getting Started**
+  * [Embrace InnerSource](00_getting_started.md)
+  * [Introduction to InnerSource](intro_innersource.md)
 
 * **Why InnerSource?**
   * [Benefits of InnerSource](innersource_benefits.md)
@@ -18,12 +18,9 @@
 * [**HOW can we InnerSource?**](how_can_we_innersource.md)
 
 * [**The 3 Lenses of InnerSource**](3_lenses_innersource.md)
-
-* [**Lens 1: Culture**](lens_1_culture.md)
-
-* [**Lens 2: Developer Enablement**](lens_2_dev_enablement.md)
-
-* [**Lens 3: Governance**](lens_3_governance.md)
+  * [**Lens 1: Culture**](lens_1_culture.md)
+  * [**Lens 2: Developer Enablement**](lens_2_dev_enablement.md)
+  * [**Lens 3: Governance**](lens_3_governance.md)
 
 * [**Measuring Success**](measuring_success.md)
   * [**30 Day Checklist**](30_checklist.md)
