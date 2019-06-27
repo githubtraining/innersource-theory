@@ -7,7 +7,11 @@
   * [Activity: Roadblocks](roadblocks.md)
   * [InnerSource & Open Source](innersource_open_source.md)
 
-* [**Breaking down silos**](breaking_down_silos.md)
+* **Breaking down silos**
+  * [Where we are now](where_we_are.md)
+  * [Strategy vs Silos](silo_strategy.md)
+  * [Roadblocks to transparency](roadblocks_transparency.md)
+  * [Follow through on change](follow_through_on_change.md)
 
 * [**GitHub Overview**](github_overview.md)
 
