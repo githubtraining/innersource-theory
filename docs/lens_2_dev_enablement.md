@@ -140,12 +140,20 @@ Think of the TC as the developer(s) in your organization, perhaps team leads, th
 
 !> **Discussion Question(s):** <br><br>What roadblocks do you foresee with creating a TC role within development teams?
 
-### Rewarding TCs
+### Recognizing and rewarding TCs
 
  The TC role illuminates a developer’s advanced skills in mentoring, deep knowledge of architecture, and best code-review practices. Being a TC is a time consuming and important responsibility, therefore these individuals should be recognized and rewarded within their teams and the organization.
 
 !> **Discussion Question(s):** <br><br>What are some ways you can reward and recognize the TCs within your organization?
 
+## GitHub's Perspective
+
+Some best practices we've discovered in the areas of communication, discoverability, reducing contributor friction have been the following:
+- Adopt the practice of writing things down (Issues have largely replaced email).
+- README, CONTRIBUTING, ISSUE / pull request templates, scripts to rule them all, profile repos.
+- Pull requests early and often.
+- Expose expertise through functional teams (few orgs, many teams).
+- Automate review.
 
 
 
