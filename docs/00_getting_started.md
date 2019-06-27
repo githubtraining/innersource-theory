@@ -1,4 +1,6 @@
-# Embrace InnerSource: Harness the collective intelligence of your organization
+# Embrace InnerSource
+
+_**Harness the collective intelligence of your organization**_
 
 ![logo](images/group-smarts.jpg ':no-zoom')
 

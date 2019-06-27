@@ -2,7 +2,10 @@
 
 * [**Introduction to InnerSource**](intro_innersource.md)
 
-* [**WHY InnerSource?**](why_innersource.md)
+* **Why InnerSource?**
+  * [Benefits of InnerSource](innersource_benefits.md)
+  * [Activity: Roadblocks](roadblocks.md)
+  * [InnerSource & Open Source](innersource_open_source.md)
 
 * [**Breaking down silos**](breaking_down_silos.md)
 
