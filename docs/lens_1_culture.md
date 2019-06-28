@@ -64,8 +64,11 @@ Has there been any situations, positive or negative, that revolve around this si
 
 Also important to InnerSource is the value that ideas are evaluated on their merits alone, often resulting in this creative abrasion.
 - Similar to this, Jim Whitehurst argues in book, **The Open Organization**, you want an organization that disagrees with you.
+  > Quote block with a synopsis of "why you want an org that disagrees with you" or "what this disagreement actually looks like"
 - In addition, **Pixar's Brain Trust** is a great example of creative abrasion.
+  > Quote block with an example of why the Brain Trust is a great example of creative abrasion.
 - This is not the same, however, as interpersonal conflict.
+  > Quote block with key differences between creative abrasion and interpersonal conflict
 
 ## ⌨️ Activity: Cultural resistance
 
