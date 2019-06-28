@@ -16,3 +16,7 @@
 
 
 ## Checklist
+
+- [ ] Provide example workflows that teams can use to blueprint their desired workflow
+- [ ] Provide a template repository with example README(s), issue and pull request templates, CONTRIBUTING files, license guidance, CODEOWNER templates, gitignore files, etc.
+- [ ] Create an `innersource` team within the GitHub organization to provide guidance when at-mentioned
