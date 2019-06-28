@@ -77,7 +77,7 @@ No one learns anything, no documentation is discoverable, and everyone hates Inn
 
 ### Creating house rules with contributing guidelines
 
-Every good host has house rules for their guests. This creates an organized environment while protecting the host's property. It takes the guessing game out of the equation for each guest on if you need to remove your shoes, hang up your coat, or use the second bathroom done the hall.
+Every good host has house rules for their guests. This creates an organized environment while protecting the host's property. It takes the guessing game out of the equation for each guest on if you need to remove your shoes, hang up your coat, or use the second bathroom down the hall.
 
 This also helps inform guests of any quirks to the home. For example, hot and cold issues for the shower, loose door knobs, or how to change songs on the stereo.
 
@@ -87,7 +87,7 @@ Just like every house party, every repository in your organization needs a set o
 
 ### What is a contributing guideline?
 
-A **contributing guideline** provides discoverable documentation on how a contributor and contribute as well as to formalize the responsibilities of the developers accepting code changes into their project. These guidelines aren't meant to be standardized throughout the entire organization, but the items below are recommended:
+A **contributing guideline** provides discoverable documentation on how a contributor can contribute as well as formalizes the responsibilities of the developers accepting code changes into their project. These guidelines aren't meant to be standardized throughout the entire organization, but the items below are recommended:
 
 - Names of the trusted committers and their schedules (more on this in the **Trusted committer section**)
 - Must have information on contributing
@@ -106,7 +106,17 @@ A **contributing guideline** provides discoverable documentation on how a contri
 - Road map
 
 
-## Trusted Committer
+## Trusted Committer (TC)
+
+Think of the TC as the developer(s) in your organization, perhaps team leads, that are trusted and highly invested in the specific project. Their role is to help mentor contributors and to move code changes along. Some of their other responsibilities include:
+
+- Writing and maintaining contribution guidelines
+- Code reviews on PRs
+- Maintain project dependencies
+- Provide mentorship and support
+- Lead discussions and help resolve issues
+
+The [InnerSource Commons](https://innersourcecommons.org/resources/learningpath/) details specific roles that are valuable in adopting InnerSource. Some developers must take on responsibilities outside of their silos, so they created a new role with defined responsibilities and called it the Trusted Committer.
 
 - For projects with any level of risk, you need to have a Trusted Committer.
 - Trusted Committers shift back and forth between coding and Trusted Committer responsibilities.
@@ -114,8 +124,6 @@ A **contributing guideline** provides discoverable documentation on how a contri
 - The rewards to the enterprise are great: better integrated code, better code reviews, faster pull request (PR) turnaround time, clearer knowledge for refactoring, more documentation with less pain, and bottleneck reduction.
 
 ![logo](images/cyber-superhero.png)
-
-The [InnerSource Commons](https://innersourcecommons.org/resources/learningpath/) details specific roles that are valuable in adopting InnerSource. Some developers must take on responsibilities outside of their silos, so they created a new role with defined responsibilities and called it the Trusted Committer (TC).
 
 ?> **Paypal's Journey**<br><br>When speaking about the Trusted Committer role, they said the following, "This is the most fundamental change we have implemented so far, and it is crucial to making InnerSource work. In fact, it is step one in its implementation."
 
@@ -127,16 +135,6 @@ The [InnerSource Commons](https://innersourcecommons.org/resources/learningpath/
 ### Potential organization issues with no TCs
 - Developers in the enterprise environment are often unwilling to dedicate time to reviewing and accepting pull requests or mentoring developers in other areas.
 - Developers typically have assigned tasks and goals that are specific to their own project, not to other projects that happen to touch their codebase. In addition, most people are disinclined to accept responsibility for something they have not written.
-
-### Defining the TC role
-
-Think of the TC as the developer(s) in your organization, perhaps team leads, that are trusted and highly invested in the specific project. Their role is to help mentor contributors and to move code changes along. Some of their other responsibilities include:
-
-- Writing and maintaining contribution guidelines
-- Code reviews on PRs
-- Maintain project dependencies
-- Provide mentorship and support
-- Lead discussions and help resolve issues
 
 !> **Discussion Question(s):** <br><br>What roadblocks do you foresee with creating a TC role within development teams?
 
@@ -154,7 +152,5 @@ Some best practices we've discovered in the areas of communication, discoverabil
 - Pull requests early and often.
 - Expose expertise through functional teams (few orgs, many teams).
 - Automate review.
-
-
 
 ## Checklist
