@@ -1,6 +1,8 @@
 - Consider measuring:
+  - % of issues created from external contributors
   - Responsiveness (e.g. how quickly does someone respond to an issue opened by an external contributor)
-  - % of PRs that come from external teams
-  - % of PRs from external teams that end well :)
-  - % of reviews that come from people outside network
-  - % of InnerSource components within a project
+  - % of PRs that come from external contributors
+  - % of PRs from external teams that are merged
+  - % of reviews that come from external contributors
+  - % of code reuse across projects
+  - % of repositories using InnerSource [components](link to where components are listed in document) to promote collaboration
