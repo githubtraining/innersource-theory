@@ -8,6 +8,10 @@ Often, organizations chooses to share parts of an InnerSource project with the p
 
 When the technologies and management practices of open source are used internally, moving the project into a public arena becomes much easier.
 
+> "InnerSource is the use of open source software development practices  and the establishment  of an open source-like culture within organizations."
+>   
+> *- Tim O'Reilly*
+
 ## Healthy development practices
 
 Because **InnerSource development practices are essentially the most popular open source practices**, open sourcing a project that was developed inside the company can be fairly easy.
