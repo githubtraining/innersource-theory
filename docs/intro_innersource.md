@@ -1,6 +1,4 @@
-?> **Tip** Becoming an “Open Source Enterprise” is more than code - it’s adopting the practices that make open source thrive.
-
-## First, let's define InnerSource
+# First, let's define InnerSource
 
 Chances are you have heard or read something about InnerSource by now, but just knowing **about** InnerSource and knowing what InnerSource **is** can be harder to identify. In fact, our experience has shown that when asking people to explain what InnerSource is, we get many different answers, and some of these different mentalities come from leaders within the same organization.
 
@@ -10,7 +8,10 @@ Think of this as a maze. Without a clear understanding and correct direction, it
 
 ![logo](images/maze3.png ':align=center')
 
+?> **Tip** Becoming an “Open Source Enterprise” is more than code - it’s adopting the practices that make open source thrive.
+
 ## ⌨️ Activity: What is your definition of InnerSource?
+
 **Purpose**: To see the similarities and differences in definition _(Time: ~10 minutes)_
 
 1. Separate into small groups of 2 or 3
@@ -18,6 +19,8 @@ Think of this as a maze. Without a clear understanding and correct direction, it
 3. 5 minutes to talk about our definitions collectively
 
 **Questions:**
+
 - What similarities are there?
 - What differences do we have?
 - Was it difficult defining InnerSource within your team because of different views?
+- Is there a right answer?
