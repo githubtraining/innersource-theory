@@ -23,6 +23,3 @@
   * [**Lens 3: Governance**](lens_3_governance.md)
 
 * [**Measuring Success**](measuring_success.md)
-  * [**30 Day Checklist**](30_checklist.md)
-  * [**60 Day Checklist**](60_checklist.md)
-  * [**90 Day Checklist**](90_checklist.md)

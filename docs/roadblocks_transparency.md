@@ -16,4 +16,10 @@ People need **three things** to participate in decision-making:
 2. **Access** which comes in meetings, communication channels
 3. **Permission** which must become part of the InnerSource culture
 
+> Once you embrace it [innersource] and see new teams come on, you show examples of places where not only can people contribute, you unlock bottlenecks.
+>   
+> *- Jeremy King*
+>
+> ***Executive Vice President and Chief Technology Officer for Global eCommerce, Walmart***
+
 !> **Important Discussion Question(s)**: <br><br>Which of the three aspects of decision making is your biggest roadblock?

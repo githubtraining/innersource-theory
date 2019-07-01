@@ -66,7 +66,10 @@ Also important to InnerSource is the value that ideas are evaluated on their mer
 - Similar to this, Jim Whitehurst argues in book, **The Open Organization**, you want an organization that disagrees with you.
   > Quote block with a synopsis of "why you want an org that disagrees with you" or "what this disagreement actually looks like"
 - In addition, **Pixar's Brain Trust** is a great example of creative abrasion.
-  > Quote block with an example of why the Brain Trust is a great example of creative abrasion.
+  > Candor isn’t cruel. It does not destroy. On the contrary, any successful feedback system is built on empathy, on the idea that we are > all in this together, that we understand your pain because we’ve experienced it ourselves… The Braintrust is fueled by the idea that > every note we give is in service of a common goal: supporting and helping each other as we try to make better movies.
+  >
+  >  *- Ed Catmull* <br>
+  >   CREATIVITY, INC.
 - This is not the same, however, as interpersonal conflict.
   > Quote block with key differences between creative abrasion and interpersonal conflict
 
@@ -103,9 +106,3 @@ Benefits of this approach include:
 - Developing a habit around the important practice of writing things down.
 - Applying the GitHub Flow, which we consider to be an ideal workflow to strive for in any development environment.
 - Leveraging continuous integration (CI), lowering contributor friction, and allowing reviews to focus on substance.
-
-
-## Checklist
-
-
-### group activity around different culture situations

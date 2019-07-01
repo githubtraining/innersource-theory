@@ -16,13 +16,24 @@ GitHub Enterprise gives you feature rich tools for communication, code transpare
 
 - InnerSource is the process by which you use your tools
 
-## Issues
+## Tools of the trade
 
-## Pull Requests
+Here are a few tools that drive open source development on GitHub. They’ll also be key components of any innersource project.
 
-## Team Structure
+- **Issues**: Issues are where developers bring up topics and start conversations. If someone finds a bug or has an idea for a new feature, an issue is a great place to start—and anyone with access to it can join in on the discussion. Learn more about issues.
+- **Pull requests**: Pull requests are living conversations about changes that developers would like to make to a project. They’re where people start working on solutions and review changes that are in progress. Learn more about pull requests.
+- **Synchronous chat channels**: Sometimes teams need to make quick decisions. Synchronous chat channels like Slack are complementary to discussions and comments on GitHub and great for talking through problems in real time.
 
-## Permissions
+There are hundreds of tools available to use with GitHub that can help your team work better, from project management to continuous integration and deployment services. See them all [here](https://github.com/marketplace).
+
 
 ## ⌨️ Activity: GitHub evaluation
-**Purpose**: To identify how your organization uses GitHub features. _(Time: ~20 minutes)_
+**Purpose**: To identify how your organization uses GitHub features and tools. _(Time: ~20 minutes)_
+
+1. Separate into small groups of 2 or 3 and identify how your organization uses the following GitHub features and/or tools:
+  - Issues
+  - Pull Requests
+  - Team structures
+  - Permissions
+2. 10 minutes to map out the above
+3. 10 minutes to talk about these features collectively

@@ -152,5 +152,3 @@ Some best practices we've discovered in the areas of communication, discoverabil
 - Pull requests early and often.
 - Expose expertise through functional teams (few orgs, many teams).
 - Automate review.
-
-## Checklist
