@@ -1,44 +1,25 @@
-* [**Getting Started**](00_getting_started.md)
+* **Getting Started**
+  * [Embrace InnerSource](teams/00_getting_started.md)
+  * [Introduction to InnerSource](teams/intro_innersource.md)
 
-* [**Introduction to InnerSource**](intro_innersource.md)
-  * [**What InnerSource is and isn't**](what_innersource_is_isnt.md)
+* **Why InnerSource?**
+  * [Benefits of InnerSource](teams/innersource_benefits.md)
+  * [Activity: Roadblocks](teams/roadblocks.md)
+  * [InnerSource & Open Source](teams/innersource_open_source.md)
 
-* [**WHY InnerSource?**](why_innersource.md)
-  * [**Your Organization**](your_organization.md)
-    * [**Breaking down silos**](breaking_down_silos.md)
-  * [**Your Customers**](your_customers.md)
+* **Breaking down silos**
+  * [Where we are now](teams/where_we_are.md)
+  * [Strategy vs Silos](teams/silo_strategy.md)
+  * [Roadblocks to transparency](teams/roadblocks_transparency.md)
+  * [Follow through on change](teams/follow_through_on_change.md)
 
-* [**GitHub Overview**](github_overview.md)
-  * [**We have GitHub Enterprise, so we must be InnerSource**](have_github_enterprise.md)
-  * [**Issues**](issues.md)
-  * [**Pull Requests**](pull_requests.md)
-  * [**Team Structure**](teams/team_structure.md)
+* [**GitHub Overview**](teams/github_overview.md)
 
-* [**HOW can we InnerSource?**](how_can_we_innersource.md)
-  * [**Communication**](communication.md)
-  * [**Discoverability**](discoverability.md)
-  * [**Contributor Friction**](contributor_friction.md)
+* [**HOW can we InnerSource?**](teams/how_can_we_innersource.md)
 
-* [**The 3 Lenses of InnerSource**](3_lenses_innersource.md)
-* [**Lens 1: Culture**](lens_1_culture.md)
-  * [**Questions**](culture_questions.md)
-  * [**GitHub's Perspective**](culture_github_perspective.md)
-  * [**Story: GitHub without InnerSource**](culture_story_innersource.md)
+* [**The 3 Lenses of InnerSource**](teams/3_lenses_innersource.md)
+  * [**Lens 1: Culture**](teams/lens_1_culture.md)
+  * [**Lens 2: Developer Enablement**](teams/lens_2_dev_enablement.md)
+  * [**Lens 3: Governance**](teams/lens_3_governance.md)
 
-* [**Lens 2: Developer Enablement**](lens_2_dev_enablement.md)
-  * [**Questions**](dev_enablement_questions.md)
-  * [**Trusted Committer**](trusted_committer.md)
-    * [**Defining the Role**](teams/defining_tc_role.md)
-    * [**Refining the Role**](teams/refining_tc_role.md)
-    * [**Rewarding TCs**](rewarding_tc.md)
-  * [**Passive Documentation**](passive_documentation.md)
-  * [**Contributing Guidelines**](teams/contributing_guidelines.md)
-  * [**GitHub's Perspective**](dev_enablement_github_perspective.md)
-
-* [**Lens 3: Governance**](lens_3_governance.md)
-  * [**Order vs. chaos**](lens_3_order_vs_chaos.md)
-  * [**Questions**](governance_questions.md)
-  * [**GitHub's Perspective**](governance_github_perspective.md)
-
-* [**Measuring Success**](measuring_success.md)
-  * [**Team Checklist**](teams/team_checklist.md)
+* [**Measuring Success**](teams/measuring_success.md)
