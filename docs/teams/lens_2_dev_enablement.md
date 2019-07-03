@@ -23,7 +23,7 @@ Let's look at some of these:
 
 ![logo](../images/dilbert-tribal.gif)
 
-!> **Discussion Question(s):** <br><br>How do we eliminate tribal knowledge?<br> Where does the communication playing field need leveling? Do you need new tools, and practices to do so?
+!> **Discussion Question(s):** <br><br>How do we eliminate tribal knowledge?<br> Where does the communication playing field need leveling? Do you need new tools, and practices to do so?<br> Is there tribal knowledge in your team that should be discoverable among other teams?
 
 ## Discoverability
 
@@ -45,7 +45,7 @@ In reference to PayPal, who adopted InnerSource practices across their entire or
   - **Conversations the product owners have when they are explaining their priorities to one another**, or arranging them.
   - The **connection between a piece of the code and the project stories about the code**, and the live conversations about both.
 
-!> **Discussion Question(s):** <br><br>How is collaboration taking place inside your organization today?<br> Are these conversations distributive or local in nature?<br>How can you help teams have these conversations more openly?<br>How can you leverage GitHub to do this?
+!> **Discussion Question(s):** <br><br>How is collaboration taking place inside your team today?<br> Are these conversations distributive or local in nature?<br>How can you have these conversations more openly?<br>How can you leverage GitHub to do this?
 
 ### How to capture passive Documentation
 
@@ -62,7 +62,7 @@ In reference to PayPal, who adopted InnerSource practices across their entire or
 
 ![logo](../images/contributor-friction.png)
 
-How many of you have seen something like this in your organization?
+**How many of you have seen something like this in your organization?<br> How about your team?**
 
 ?> **Example situation**: <br><br>
 **Dev1** Opens a pull request on another teams project. Tells her manager she could write the change in a few weeks.<br>
@@ -108,7 +108,7 @@ A **contributing guideline** provides discoverable documentation on how a contri
 
 ## Trusted Committer (TC)
 
-Think of the TC as the developer(s) in your organization, perhaps team leads, that are trusted and highly invested in the specific project. Their role is to help mentor contributors and to move code changes along. Some of their other responsibilities include:
+Think of the TC as the developer(s) in your team, perhaps a team lead, that is trusted and highly invested in the specific team project(s). Their role is to help mentor contributors and to move code changes along. Some of their other responsibilities include:
 
 - Writing and maintaining contribution guidelines
 - Code reviews on PRs
@@ -136,13 +136,13 @@ The [InnerSource Commons](https://innersourcecommons.org/resources/learningpath/
 - Developers in the enterprise environment are often unwilling to dedicate time to reviewing and accepting pull requests or mentoring developers in other areas.
 - Developers typically have assigned tasks and goals that are specific to their own project, not to other projects that happen to touch their codebase. In addition, most people are disinclined to accept responsibility for something they have not written.
 
-!> **Discussion Question(s):** <br><br>What roadblocks do you foresee with creating a TC role within development teams?
+!> **Discussion Question(s):** <br><br>What roadblocks do you foresee with creating a TC role within your own team?
 
 ### Recognizing and rewarding TCs
 
  The TC role illuminates a developer’s advanced skills in mentoring, deep knowledge of architecture, and best code-review practices. Being a TC is a time consuming and important responsibility, therefore these individuals should be recognized and rewarded within their teams and the organization.
 
-!> **Discussion Question(s):** <br><br>What are some ways you can reward and recognize the TCs within your organization?
+!> **Discussion Question(s):** <br><br>What are some ways you can reward and recognize the TCs within your team?<br> How about TC's in other teams that you contribute to?
 
 ## GitHub's Perspective
 

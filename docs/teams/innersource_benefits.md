@@ -10,7 +10,7 @@
 
 InnerSource differs from classic open source by remaining within the view and control of a single organization. The “openness” of the project extends across many teams within the organization. This allows the organization to embed differentiating trade secrets into the code without fear that they will be revealed to outsiders, while benefitting from the creativity and diverse perspectives contributed by people throughout the organization.
 
-!> **Important Discussion Questions**: <br> Is your communication open?<br>How you do fix communication overload?<br>As an organization, do you have a goal to contribute back to the open source community?
+!> **Important Discussion Questions**: <br> Is your communication open?<br>How you do fix communication overload?<br>As an organization or your specific team, do you have a goal to contribute back to the open source community?
 
 ## Advantages of adopting an InnerSource strategy
 
@@ -26,11 +26,11 @@ InnerSource differs from classic open source by remaining within the view and co
 
 **Purpose**: To list and better understand cross-team reasons for adopting InnerSource _(Time: ~15 minutes)_
 
-1. Using a whiteboard, collection of sticky notes, or an issue in a repo, discuss and list the potential benefits of InnerSource to your organization.
+1. Using a whiteboard, collection of sticky notes, or an issue in a repo, discuss and list the potential benefits of InnerSource to your organization and your team.
 
 **Questions**:
 
-- What benefits of InnerSource would be most impactful for our organization?
+- What benefits of InnerSource would be most impactful for your team?
 - What benefits would be most immediate?
 - What benefits are most needed?
 - How would each of your team members answer these questions?

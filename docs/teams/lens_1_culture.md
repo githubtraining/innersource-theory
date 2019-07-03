@@ -81,7 +81,7 @@ Also important to InnerSource is the value that ideas are evaluated on their mer
 
 **Preparation:** _(Time: ~10 minutes)_
 
-1. Separate into small groups and discuss cultural resistance or limitations within your organization.
+1. Separate into small groups and discuss cultural resistance or limitations within your organization and more specifically, your team.
 
 **Present:** _(Time: ~10 minutes)_
 2. Report back to the collective group via a nominated group representative.

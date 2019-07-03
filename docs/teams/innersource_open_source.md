@@ -16,7 +16,7 @@ When the technologies and management practices of open source are used internall
 
 Because **InnerSource development practices are essentially the most popular open source practices**, open sourcing a project that was developed inside the company can be fairly easy.
 
-If a project is ready, the team has move the code to a public repository. Then, they start managing external bug reports and code contributions in the same patterns, but with contributors from outside their company.
+If a project is ready, the team has moved the code to a public repository. Then, they start managing external bug reports and code contributions in the same patterns, but with contributors from outside their company.
 
 ## Legal considerations
 

@@ -1,6 +1,6 @@
 ## Start with small, impactful changes
 
-Companies often kick off their InnerSource programs by starting small. Pilot projects can help teams experiment with more open processes, democratize access to code, and document best practices before applying InnerSource more widely.
+Companies and teams often kick off their InnerSource programs by starting small. Pilot projects can help teams experiment with more open processes, democratize access to code, and document best practices before applying InnerSource more widely.
 
 ![logo](../images/Fintechtocat.png ':no-zoom')
 
@@ -15,23 +15,21 @@ Small successes can help show your internal community of developers how to make 
   - % of code reuse across projects
   - % of repositories using InnerSource components (managed contributing guidelines, assigned TCs, )
 
-!> **Discussion Question(s):** <br><br>What is your timeline?<br>What is your next step?
+!> **Discussion Question(s):** <br><br>What is your timeline?<br>What is your next step?<br>Do you have a clear understanding of your organization's InnerSource goals?
 
 ## Initial InnerSource rollout checklist
 
-Here is a list of some recommended checklist items to review when adopting InnerSource that apply to most organizations:
+Here is a list of some recommended checklist items to review when adopting InnerSource that apply to most teams within an organization:
 
-- [ ] Define program goals, timeline and Exec sponsor team
-- [ ] Identify pilot group(s) to validate and drive internal success
+- [ ] Define team goals, timeline and alignment to department and organization objectives
+- [ ] Identify projects to validate and drive internal InnerSource success
 - [ ] Establish the Trusted Committer (TC) role
-- [ ] Establish and schedule initial workshops to align purpose with practice among internal pilot group(s)
-- [ ] Create internal portal for InnerSource
+- [ ] Establish and schedule a hack-a-thon workshop to align purpose with practice
+- [ ] Become familiar with your organization's internal portal for InnerSource
 - [ ] Establish Search/Tagging conventions
-- [ ] Establish template documentation and repository set up guidelines.
+- [ ] Establish template documentation and repository set up guidelines
   - [ ] Contributing guidelines, passive documentation, etc.
-- [ ] Provide example workflows that teams can use to blueprint their desired workflow
-- [ ] Provide a template repository with example README(s), issue and pull request templates, CONTRIBUTING files, license guidance, CODEOWNER templates, gitignore files, etc.
-- [ ] Create an `innersource` team within the GitHub organization to provide guidance when at-mentioned
+- [ ] Establish project repositories with example README(s), issue and pull request templates, CONTRIBUTING files, license guidance, CODEOWNER templates, gitignore files, etc.
 - [ ] **Based on our discussions, what else do you need to add?**
 
 ## Expanding your checklist
@@ -67,28 +65,62 @@ Many companies have already adopted InnerSource or are currently in the process.
   - [ ] Develop interpersonal and leadership skills through mentoring
   - [ ] Organizational benefits and rewards from this position
 
-### Company
-- [ ] **CxO-level executives**
-  - [ ] Do the executives understand the purpose and value of InnerSource?
-    - [ ] The value of spreading tribal knowledge across teams
-    - [ ] The value of having teams remove their own external blockers and bottlenecks
-    - [ ] The value of a more interconnected organization
-    - [ ] The value of having advanced teams that have a deeper understanding of many arms of the codebase
-    - [ ] How InnerSource encourages basic good practice and helps develop and spread better coding and development practices
-    - [ ] How InnerSource increases the learning and development of individual developers
-  - [ ] Are they willing to support flexible work requirements and time spent on cross-departmental contributions?
-  - [ ] Does the executive team support this initiative?
-  - [ ] Are company goals and OKRs (Objectives and key results) clearly stated and shared?
-  - [ ] Are the company's vision and mission relevant, up-to-date, clear, respected, and followed?
-- [ ] **Human resources**
-  - [ ] Are there rewards and criteria for promotions based on InnerSource values and contributions?
-    - [ ] Rewards for contributions to other teams
-    - [ ] Rewards for developers who review code contributed from developers on other teams
-- [ ] **Organizational setup**
-  - [ ] How do projects register as InnerSource?
-  - [ ] Do team members have time to contribute to outside projects?
-  - [ ] Do team members have resources to measure and demonstrate gains and losses of teams?
-  - [ ] Can team members choose what projects to work on based on their expertise and motivations?
+### Repository
+- [ ] Are ancillary resources set up, such as the following?
+  - [ ] Documentation
+  - [ ] Discussion forum
+  - [ ] Issue templates
+  - [ ] Pull request templates
+- [ ] README.md
+  - [ ] Project name
+  - [ ] Detailed past information to the project
+  - [ ] Project description
+  - [ ] Team leads and Project Manager Information
+  - [ ] Helpful search information
+  - [ ] Locations of discussion forums
+  - [ ] Locations of related projects and their relationships
+- [ ] CONTRIBUTING.md
+  - [ ] Table of contents
+  - [ ] Names and contact info for TCs
+  - [ ] TC availability schedule
+  - [ ] Code conventions
+  - [ ] Testing conventions
+  - [ ] Branching conventions
+  - [ ] Commit message conventions
+  - [ ] Steps for when to create a pull request
+  - [ ] How to submit issues (feature requests, bugs, discussions, etc)
+  - [ ] How to write documentation
+  - [ ] Dependencies
+  - [ ] Build process schedule
+  - [ ] Sprint schedule
+  - [ ] Road map
+- [ ] HELPWANTED.md
+  - [ ] Can link to an outside resource
+  - [ ] Can contain a list of requests and/or backlogs
+- [ ] GitHub projects
+  - [ ] Does your repository benefit from using projects?
+- [ ] GETTINGSTARTED.md
+  - [ ] Information for a first time contributor to get things up and running
+- [ ] Tools
+  - [ ] Version control tips
+  - [ ] Continuous integration information
+  - [ ] Continuous delivery information
+
+### Project
+- [ ] Does this project matter to the company? Is it likely to survive strategy changes?
+- [ ] Appropriateness
+  - [ ] Is this project likely to be interested to developers outside the original development team?
+  - [ ] Is it currently or could it be used widely by other teams in the company who depend on it?
+  - [ ] Will it benefit from being extended by outsiders in way that the original team could not anticipate?
+  - [ ] Could the project benefit from having other teams contribute bug fixes and refactoring work?
+  - [ ] Could outside developers respond to appeals to contribute?
+- [ ] Code maturity
+  - [ ] Is the project modular enough to make changes easy and safe to make?
+  - [ ] Is the code well documented?
+- [ ] Existing process
+  - [ ] Are releases occurring frequently?
+  - [ ] Is continuous integrations in place?
+  - [ ] Is the project benefiting from the GitHub flow?
 
 ### Developers
 - [ ] Do developers around the company understand that they can contribute to the InnerSource project?
@@ -115,12 +147,10 @@ Many companies have already adopted InnerSource or are currently in the process.
 
 
 
-## 30, 60, 90 Day checkin
+## Schedule a team hack-a-thon for your InnerSource rollout
 
-An integral part of adopting InnerSource within your organization is establishing goals, milestones, and then creating a checklist of items that need to be accomplished. As part of this class, it's important to schedule a 30, 60, and 90 day checkin with a member of GitHub's Professional Services to review your journey, progress, roadblocks, or anything to help move your InnerSource adoption along.
+An integral part of adopting InnerSource within your team is establishing goals, milestones, and then creating a checklist of items that need to be accomplished within your team.
 
-## ⌨️ Activity: Schedule 30, 60, 90 checkins
-**Purpose**: To review your InnerSource adoption. _(Time: ~10 minutes)_
+As a great follow up to this class, scheduling a hack-a-thon workshop where an Integration Engineer from GitHub's Professional Services will direct and consult your team in building out the needed resources and help kickstart your rollout of InnerSource adoption.
 
-1. Discuss key individuals who will need to be attendance for these remote checkins.
-2. Schedule meetings.
+?> Ask your **GitHub services seller or Integration Engineer** for more information.

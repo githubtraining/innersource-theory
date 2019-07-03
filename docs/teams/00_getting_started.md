@@ -11,15 +11,15 @@ _**Harness the collective intelligence of your organization**_
 > - Agenda and high level overview of what to expect
 > - Identify a "parking lot" for questions
 > - Discuss class logistics (timing of course, recording, etc)
-> - After class office hours to support 30, 60, 90 day goals
+> - Introduce rollout checklist 
 
 ◀ **Our focus will be on the topics you see listed on the left in the navigation bar.** ◀
 
 ## Why is this important to you?
 
-As leaders of your organization, team members will rely on you to **embrace the InnerSource mentality** and to help **enable teams** across the organization to adopt these InnerSource practices.
+InnerSource brings the successful practices of the open source community inside your organization. Practices like increasing transparency, trust, and collaboration are core to InnerSource. These practices aim to reduce the time it takes to bring new ideas to market.
 
-At the end of this course, you should have a path forward and answers to questions specific to your organization around the **What, Why, and How** of InnerSource. **We will end with a 30, 60, and 90 day checklist** compiled from each lens of InnerSource to help you measure InnerSource success within your organization.
+At the end of this course, you should have a path forward and answers to questions specific to your team and organization around the **What, Why, and How** of InnerSource. **We will end with an InnerSource rollout checklist** compiled from each lens of InnerSource to help you measure InnerSource success within your team.
 
 ## ⌨️ Activity: Organization pulse
 **Purpose**: To gain a high-level pulse of the organization. _(Time: ~10 minutes)_

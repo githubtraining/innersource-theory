@@ -28,9 +28,9 @@ There are hundreds of tools available to use with GitHub that can help your team
 
 
 ## ⌨️ Activity: GitHub evaluation
-**Purpose**: To identify how your organization uses GitHub features and tools. _(Time: ~20 minutes)_
+**Purpose**: To identify how your team and organization uses GitHub features and tools. _(Time: ~20 minutes)_
 
-1. Separate into small groups of 2 or 3 and identify how your organization uses the following GitHub features and/or tools:
+1. Separate into small groups of 2 or 3 and identify how your team uses the following GitHub features and/or tools:
   - Issues
   - Pull Requests
   - Team structures

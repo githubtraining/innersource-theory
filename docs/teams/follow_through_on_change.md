@@ -11,12 +11,14 @@ Organizations that will succeed in adopting an InnerSource mindset have to not o
 **Purpose**: To identify specific behaviors matching the areas of improvement identified earlier. _(Time: ~20 minutes)_
 
 **Small group discussion: First 10 minutes**
-1. In small groups, discuss what specific behaviors would need to change to meet the goals discussed earler.
+1. In small groups, discuss what specific behaviors would need to change to meet the goals discussed earlier.
    - _These goals should be "third party identifiable" - can an objective, uninvolved observer identify that this behavior is happening?_
 2. Which step(s) is the organization doing well at?
+3. Which step(s) is your team doing well at?
 
 **Collective discussion: Second 10 minutes**
 3. Share one item behavior that needs improvement and the reasons why.
 4. Share one item that the organization is doing well at and the reasons why.
+5. Share one item that your team is doing well at and the reasons why.
 
 !> **Important Discussion Question(s)**: <br><br>What behaviors and mindsets need to change in order to accomplish this goal?<br>What barriers need to be broken down to accomplish this change effort?<br>How can we build meaningful relationships outside of the silos people exist in?<br>What benefits are gained from this?

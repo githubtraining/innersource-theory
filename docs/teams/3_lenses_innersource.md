@@ -30,7 +30,7 @@ Our third view is **governance**. Think of this as ***air traffic control*** tha
 
 **Group preparation**: _(Time: ~10 minutes)_
 
-1. Separate into small groups and decide which of these 3 lenses needs the most improvement within your organization.
+1. Separate into small groups and decide which of these 3 lenses needs the most improvement within your organization, or more specifically, your team.
 2. Within that lens, identify specific issues, bottlenecks, disconnects, or any other areas of improvement.
 3. Identify the lens you think your organization does well and list specific reasons why.
 
