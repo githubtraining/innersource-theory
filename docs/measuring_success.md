@@ -119,7 +119,7 @@ Many companies have already adopted InnerSource or are currently in the process.
 
 An integral part of adopting InnerSource within your organization is establishing goals, milestones, and then creating a checklist of items that need to be accomplished. As part of this class, it's important to schedule a 30, 60, and 90 day checkin with a member of GitHub's Professional Services to review your journey, progress, roadblocks, or anything to help move your InnerSource adoption along.
 
-## ⌨️ Activity: Schedule 30, 60, 90 checkins
+## ⌨️ Activity: Schedule 30, 60, 90 day checkins
 **Purpose**: To review your InnerSource adoption. _(Time: ~10 minutes)_
 
 1. Discuss key individuals who will need to be attendance for these remote checkins.
