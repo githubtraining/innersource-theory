@@ -13,3 +13,11 @@
   - Product Owner
   - Trusted Committer
   - Contributer 
+
+### Measuring success 
+
+**GitHub**
+  - **Differences**- The initial rollout checklist and measuring percentages of GitHub contributions are unique to GitHub. The Expanded     checklist 
+  - **Similarites**- The expanded checklist is largely inspired from Paypal's InnerSource adoption checklist with some slight alterations
+
+**InnerSource Commons** - No checklist for InnerSource rollout is currently being provided
