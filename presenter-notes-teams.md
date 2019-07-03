@@ -1,4 +1,4 @@
-# Presenter notes on delivering InnerSource Theory for Leaders
+# Presenter notes on delivering InnerSource Theory for Teams
 
 **Purpose:** To give you, the presenter, additional insight from past deliveries, additional resources, and how to respond to some of your organization's hard questions.
 
