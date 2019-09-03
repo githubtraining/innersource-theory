@@ -31,4 +31,4 @@ ______
 * Enabling your team to succeed
   * [Team Lego Activity](teams/lego_activity.md)
   * [Team Specific Projects](teams/projects.md)
-  * [Refining your Checklist](teams/refine_checklist.md)
+  * [Expand your Checklist](teams/expand_checklist.md)
