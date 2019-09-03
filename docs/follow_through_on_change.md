@@ -1,10 +1,10 @@
 # Change doesn't happen overnight
 
-In most enterprises, it is difficult to make significant changes quickly. Even when it’s possible, rapid cultural or process change can be more disruptive than helpful. This goes double for when the changes are mandated from the top without buy-in from the people in the trenches.
+![logo](../images/habits.jpg ':no-zoom')
 
-InnerSource works by starting with the smallest steps possible to effect change, and by making meaningful compromises to adapt to circumstances. This minimizes disruption and gives people a chance to see how effective it is before making larger steps. In fact, just a single team in one department can effectively adopt InnerSource, but it won't go too far without the support from the organization and other teams.
+- It is difficult to make significant changes quickly.
 
-Organizations that will succeed in adopting an InnerSource mindset have to not only develop and regularly communicate an aligned vision and its supporting narrative, but also have plans for specific behavior change.
+- Organizations that will succeed in adopting an InnerSource mindset have to not only develop and regularly communicate an aligned vision and its supporting narrative, but also have plans for specific behavior change.
 
 ## ⌨️ Activity: Identify specific behaviors
 

@@ -34,7 +34,7 @@ Let's look at some of these:
 
 ?> **Tip**: Documentation is only useful if it’s discoverable
 
-Passive documentation is the written record we create everyday while communicating openly. Most people tend to think of documentation as only the specific documentation for using some software or project, such as an API, but documentation is much more than that. For complete transparency and to help eliminate tribal knowledge, discussions had in meetings, communication channels such as slack, or any important conversations that would benefit the team should be documented in a discoverable way.
+Passive documentation is the written record we create everyday while communicating openly.
 
 In reference to PayPal, who adopted InnerSource practices across their entire organization, below are some key characteristics and benefits they found from passive documentation:
 
@@ -77,13 +77,11 @@ No one learns anything, no documentation is discoverable, and everyone hates Inn
 
 ### Creating house rules with contributing guidelines
 
-Every good host has house rules for their guests. This creates an organized environment while protecting the host's property. It takes the guessing game out of the equation for each guest on if you need to remove your shoes, hang up your coat, or use the second bathroom down the hall.
-
-This also helps inform guests of any quirks to the home. For example, hot and cold issues for the shower, loose door knobs, or how to change songs on the stereo.
+![logo](../images/house-rules.png)
 
 #### Every project needs a set of house rules
 
-Just like every house party, every repository in your organization needs a set of **house rules** to show contributors how to collaborate and contribute to your project. This is done by creating a contributing guideline.
+Just like every good host, every repository in your organization needs a set of **house rules** to show contributors how to collaborate and contribute to your project. This is done by creating a **contributing guideline**.
 
 ### What is a contributing guideline?
 

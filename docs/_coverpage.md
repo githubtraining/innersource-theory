@@ -1,6 +1,6 @@
 ![logo](images/cover.png ':no-zoom')
 
-# InnerSource Theory
+# InnerSource
 
 *Because, "none of us is smarter than all of us"*
 

@@ -8,22 +8,25 @@ Now that we've discussed **why** InnerSource benefits an organization, it's time
 ## Culture
 
 Our first lens is **culture**. Think of this as a view from 35,000 feet. An overall big picture of your organization.
-- How does it look? Is it a convoluted mess, and organized masterpiece, or somewhere in between?
-- If someone outside of your organization had this view, what would they think?
-- How receptive is your organization, culturally, to an InnerSource way of working?
+
+!> **Important Discussion Questions**: <br>- How does it look?
+<br>- If someone outside of your organization had this view, what would they think?
+<br>- How receptive is your organization, culturally, to an InnerSource way of working?
 
 ## Developer enablement
 
 Our second lens is **developer enablement**. This is the view from the ground, the first-person point of view on how things look in your organization.
-- How does if look from this perspective?
-- What tools and tactics are available that enable and empower your developers as they grow accustomed to an InnerSource way of working within your organization?
-- If you were to ask a random set of developers within your organization how enabled they feel to work with other teams, what do you think they would say?
+
+!> **Important Discussion Questions**: <br>- How does if look from this perspective?
+<br>- What tools and tactics are available that enable and empower you
+<br>- If you were to ask a random set of developers within your organization how enabled they feel to work with other teams, what do you think they would say?
 
 ## Governance
 
 Our third view is **governance**. Think of this as ***air traffic control*** that governs the aircrafts in the sky and the personal on the ground. This is the leadership team within the organization.
-- Are there ensuring guiding principles, roles, and processes in place to foster an InnerSource environment?
-- Does the developer community within your organization get the support it needs?
+
+!> **Important Discussion Questions**: <br>- Are there ensuring guiding principles, roles, and processes in place to foster an InnerSource environment?
+<br>- Does the developer community within your organization get the support it needs?
 
 ## ⌨️ Activity: Knowing the pulse of your lenses
 **Purpose**: Identify areas of improvement and celebrating success within the lenses. _(Time: ~30 minutes)_
