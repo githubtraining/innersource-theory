@@ -1,6 +1,6 @@
 # Change doesn't happen overnight
 
-![logo](../images/habits.jpg ':no-zoom')
+![logo](images/Habits.jpg ':no-zoom')
 
 - It is difficult to make significant changes quickly.
 
