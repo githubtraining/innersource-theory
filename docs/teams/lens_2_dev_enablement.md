@@ -65,12 +65,12 @@ In reference to PayPal, who adopted InnerSource practices across their entire or
 **How many of you have seen something like this in your organization?<br> How about your team?**
 
 ?> **Example situation**: <br><br>
-**Dev1** Opens a pull request on another teams project. Tells her manager she could write the change in a few weeks.<br>
+**Dev1** Opens a pull request on another team's project. Tells her manager she could write the change in a few weeks.<br>
 **Manager1** Is very pleased.<br>
 **Dev1** Submits a pull request. Waits, and waits. **Manager1** gets upset that it’s taking so long. She tells her manager that the change hadn’t been accepted into the codebase.<br>
 **Manager1** Talks to **Manager2** and asks him to have someone merge it in.<br>
 **Manger2** Agrees, has someone merge it in.<br>
-**Dev2** Doesn’t like the format of changes from **Dev1**. Rewrites the changes from **Dev1** and adds to codebase.<br>
+**Dev2** Doesn’t like the format of changes from **Dev1**. Rewrites the changes from **Dev1** and adds to the codebase.<br>
 No one learns anything, no documentation is discoverable, and everyone hates InnerSource because of bottlenecks.<br>
 **Dev2** wasn't enabled to collaborate efficiently and directly with **Dev1**.<br>
 
