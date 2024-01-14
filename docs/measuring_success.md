@@ -36,7 +36,7 @@ Here is a list of some recommended checklist items to review when adopting Inner
 
 ## Expanding your checklist
 
-Many companies have already adopted InnerSource or are currently in the process. There is a lot of great information from many resources including [InnerSource Commons](https://innersourcecommons.org/) and [PayPal's journey](https://innersourcecommons.org/assets/files/InnerSourceChecklist.pdf) just to name a few. Below is an expanded checklist compiled from many resources including PayPal, GNU Manifesto, and the Apache Way.
+Many companies have already adopted InnerSource or are currently in the process. There is a lot of great information from many resources including [InnerSource Commons](https://innersourcecommons.org/) and [PayPal's journey](https://innersourcecommons.org/documents/books/InnerSourceChecklist.pdf) just to name a few. Below is an expanded checklist compiled from many resources including PayPal, GNU Manifesto, and the Apache Way.
 
 ### Team
 - [ ] **Are team members ready for the challenges of InnerSource?**
